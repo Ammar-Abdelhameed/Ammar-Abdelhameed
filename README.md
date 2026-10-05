@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Flutter Framework
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
-- 1 - linkedin -> https://www.linkedin.com/in/ammar-abd-el-hamid-41bb8b166/
+- 1 - Linkedin
+  https://www.linkedin.com/in/ammar-abdelhamid-369196440?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
 <!---
